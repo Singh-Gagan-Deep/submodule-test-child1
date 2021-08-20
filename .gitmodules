@@ -1,0 +1,3 @@
+[submodule "submodule-test-parent"]
+	path = submodule-test-parent
+	url = https://github.com/Singh-Gagan-Deep/submodule-test-parent
