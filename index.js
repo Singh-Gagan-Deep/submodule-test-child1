@@ -1,2 +1,2 @@
 const { add } = require("./submodule-test-parent/functions/index");
-console.log(add(3, 4));
+console.log(add(3, 6));
